@@ -6,7 +6,7 @@
 
     <groupId>rocks.voss</groupId>
     <artifactId>jsonhelper</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>JSON Helper</name>
     <url>https://maximilian.voss.rocks</url>
 
